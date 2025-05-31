@@ -192,3 +192,20 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# ---------- AMD Similar Reviews ----------
+*.csv
+*.tsv
+*.jsonl
+data/
+datasets/
+
+.ipynb_checkpoints/
+
+kaggle.json
+secrets/
+*.key
+.env
+
+*.html
+*.pdf
